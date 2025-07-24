@@ -12,7 +12,7 @@ An end-to-end data analysis project that segments customers based on their purch
 
 This project demonstrates a complete data analysis workflow, starting from a large, raw transactional dataset to a final, actionable business intelligence tool. The primary goal is to identify distinct customer groups to enable a company to run more effective, targeted marketing campaigns.
 
-**Final Interactive Dashboard:** [**Link ke Dashboard Tableau Public Anda di Sini**]
+**Final Interactive Dashboard:** [[**Link ke Dashboard Tableau Public Anda di Sini**]](https://public.tableau.com/views/CustomerSegmentationAnalysisRFMModel/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
