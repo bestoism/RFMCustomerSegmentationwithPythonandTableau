@@ -80,9 +80,7 @@ The final dashboard provides a clear overview of the customer base.
 ## How to Run this Project
 
 1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/[Username-Anda]/[Nama-Repo-Anda].git
-    ```
+
 2.  **Install dependencies:**
     ```bash
     pip install pandas matplotlib seaborn openpyxl
